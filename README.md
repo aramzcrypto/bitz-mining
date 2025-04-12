@@ -103,7 +103,8 @@ Get your public key:
 solana address
 ```
 
-Transfer at least 0.005 ETH to this address on the Eclipse network. You can use a bridge service to move ETH from Ethereum mainnet to Eclipse, or purchase directly from a supporting exchange.
+Transfer at least 0.005 ETH to this address on the Eclipse network. 
+You can use a bridge to move ETH from Ethereum mainnet or Layer 2 networks to Eclipse via [https://app.eclipse.xyz/bridge](https://app.eclipse.xyz/bridge) or [https://www.relay.link/bridge/eclipse](https://www.relay.link/bridge/eclipse). FYI, [Backpack wallet](https://backpack.app/download) supports Eclipse network.
 
 ## Mining Configuration
 
