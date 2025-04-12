@@ -1,7 +1,7 @@
 # Mining BITZ on Eclipse via CLI
 
 <div align="center">
-  <img src="https://nufi-cms-strapi-production.s3.eu-central-1.amazonaws.com/organizations_Wm7k38c_Xu_Z_Mo_YB_4o_I_Mfh_sites_site_D_Kpv5_socialpreview_g_UV_Cjpn_Ri31oo5_H_Dw5le_image_5_6b379653da.webp" alt="Eclipse" width="150"/>
+  <img src="https://nufi-cms-strapi-production.s3.eu-central-1.amazonaws.com/organizations_Wm7k38c_Xu_Z_Mo_YB_4o_I_Mfh_sites_site_D_Kpv5_socialpreview_g_UV_Cjpn_Ri31oo5_H_Dw5le_image_5_6b379653da.webp" alt="Eclipse" width="300"/>
   <h3>Complete Guide to Mining $BITZ Tokens via ePOW</h3>
 </div>
 
@@ -201,13 +201,8 @@ The URL should be set to `https://mainnetbeta-rpc.eclipse.xyz/`
 - **Automation**: Consider setting up auto-claim scripts for collected BITZ
 - **Security**: Regularly backup your keypair and seed phrase
 
-## Contributing
-
-Contributions to this guide are welcome! Please submit a pull request or open an issue to suggest improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Follow us
+[Alpha Drops on Twitter](https://x.com/myAlphaDrops)
 
 ---
 
