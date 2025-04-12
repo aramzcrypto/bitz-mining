@@ -1,7 +1,7 @@
 # Mining BITZ on Eclipse via CLI
 
 <div align="center">
-  <img src="https://nu.fi/blog/experimental-eclipse-blockchain-support" alt="Eclipse Logo" width="150"/>
+  <img src="https://nufi-cms-strapi-production.s3.eu-central-1.amazonaws.com/organizations_Wm7k38c_Xu_Z_Mo_YB_4o_I_Mfh_sites_site_D_Kpv5_socialpreview_g_UV_Cjpn_Ri31oo5_H_Dw5le_image_5_6b379653da.webp" alt="Eclipse" width="150"/>
   <h3>Complete Guide to Mining $BITZ Tokens via ePOW</h3>
 </div>
 
