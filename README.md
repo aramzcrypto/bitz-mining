@@ -204,6 +204,9 @@ The URL should be set to `https://mainnetbeta-rpc.eclipse.xyz/`
 ## Follow us
 [Alpha Drops on Twitter](https://x.com/myAlphaDrops)
 
+## BITZ Token
+CA: [64mggk2nXg6vHC1qCdsZdEFzd5QGN4id54Vbho4PswCF](https://eclipsescan.xyz/token/64mggk2nXg6vHC1qCdsZdEFzd5QGN4id54Vbho4PswCF)
+
 ---
 
 <div align="center">
