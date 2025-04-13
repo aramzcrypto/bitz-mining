@@ -92,7 +92,7 @@ cargo install bitz
 
 ### Step 7: Configure Solana for Eclipse
 ```bash
-solana config set --url https://mainnetbeta-rpc.eclipse.xyz/
+solana config set --url https://eclipse.helius-rpc.com
 ```
 
 ### Step 8: Fund Your Eclipse Wallet
@@ -108,12 +108,6 @@ You can use a bridge to move ETH from Ethereum mainnet or Layer 2 networks to Ec
 
 ## Mining Configuration
 
-Before starting the mining process, you can configure how many CPU cores to use:
-
-```bash
-# Set the number of cores based on your system (example uses 8 cores)
-bitz collect --cores 8
-```
 
 For optimal performance, leave 1-2 cores free for system operations.
 
@@ -129,6 +123,12 @@ screen -S eclipse
 ### Step 10: Begin Mining BITZ
 ```bash
 bitz collect
+```
+Before starting the mining process, you can configure how many CPU cores to use:
+
+```bash
+# Set the number of cores based on your system (example uses 8 cores)
+bitz collect --cores 8
 ```
 
 **Managing your screen session:**
